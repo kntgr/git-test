@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 てすと
 t
 te
 Tes
 test
+=======
+てすとてすとてすと
+>>>>>>> feature/login
